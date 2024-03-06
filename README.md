@@ -22,7 +22,7 @@ A convenient tool for modifying nvidia *.inf files
 
 - Click on "Modify"
 
-- ![image](https://github.com/pa1n-dev/DriverModify/assets/129274418/9dff2211-10e9-4d9f-a7aa-2d7dd3fe3277)
+![image](https://github.com/pa1n-dev/DriverModify/assets/129274418/9dff2211-10e9-4d9f-a7aa-2d7dd3fe3277)
 
 - Modidification completed!
 
