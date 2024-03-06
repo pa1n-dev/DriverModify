@@ -12,6 +12,8 @@ A convenient tool for modifying nvidia *.inf files
 
 - Select *inf file from your driver
 
+![image](https://github.com/pa1n-dev/DriverModify/assets/129274418/33de08f5-29a5-4f12-9691-e45dfcc036e4)
+
 - Select your video adapter
 
 ![image](https://github.com/pa1n-dev/DriverModify/assets/129274418/40f0f317-6a15-4ce4-a5b4-ca5180f7cfb0)
