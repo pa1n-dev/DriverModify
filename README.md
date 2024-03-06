@@ -6,7 +6,7 @@ A convenient tool for modifying nvidia *.inf files
 
 #### Screenshots
 
-![image](https://github.com/pa1n-dev/DriverModify/assets/74207477/76803aa8-9538-4cfd-bb24-ee7645189921)
+![image](https://github.com/pa1n-dev/DriverModify/assets/129274418/04f15250-0655-47fb-a18b-9af159d96167)
 
 #### How to use
 
@@ -14,10 +14,18 @@ A convenient tool for modifying nvidia *.inf files
 
 - Select your video adapter
 
-![image](https://github.com/pa1n-dev/DriverModify/assets/74207477/6b6f4e69-4285-4f5e-ad48-a8d3eb000f2a)
+![image](https://github.com/pa1n-dev/DriverModify/assets/129274418/40f0f317-6a15-4ce4-a5b4-ca5180f7cfb0)
 
 - Select videocard to modify
 
-![image](https://github.com/pa1n-dev/DriverModify/assets/74207477/e06b46ae-2e76-4fdf-adca-c586b73f4d2b)
+![image](https://github.com/pa1n-dev/DriverModify/assets/129274418/f85a307d-0b48-400f-a362-4e540ed9273e)
 
 - Click on "Modify"
+
+- ![image](https://github.com/pa1n-dev/DriverModify/assets/129274418/9dff2211-10e9-4d9f-a7aa-2d7dd3fe3277)
+
+- Modidification completed!
+
+
+
+
